@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C# and PHP</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C#</p>
 
 ###
 
